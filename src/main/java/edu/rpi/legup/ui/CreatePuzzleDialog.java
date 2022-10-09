@@ -52,6 +52,7 @@ public class CreatePuzzleDialog extends JDialog {
     };
 
 
+    
     public CreatePuzzleDialog(JFrame parent, HomePanel homePanel) {
         super(parent, true);
 
